@@ -1,0 +1,12 @@
+------
+description: Cursor → GitHub → Vercel Ship Loop (project)
+alwaysApply: true
+---
+
+# RR Ship Loop (Project)
+
+- Branch per feature.
+- Small commits with clear messages.
+- Run checks before push (lint/tests if available).
+- PR → Vercel Preview → fix issues → merge → ship production.
+

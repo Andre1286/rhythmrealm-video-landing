@@ -1,0 +1,15 @@
+------
+description: Rhythm Realm Core Rules (project)
+alwaysApply: true
+---
+
+# RR Core (Project)
+
+- If the task changes more than 2 files, write a short plan BEFORE coding.
+- Keep changes small and clear (one concern at a time).
+- Never paste or commit secrets (keys/tokens/passwords).
+- After changes, run lint/tests (or clearly say what you ran).
+- If unsure, ask a question before guessing.
+
+
+

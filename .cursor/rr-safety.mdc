@@ -1,0 +1,12 @@
+------
+description: Rhythm Realm Safety Guardrails (project)
+alwaysApply: true
+---
+
+# RR Safety (Project)
+
+- Ask before deleting files, changing database schema, or touching auth/payment logic.
+- Never run destructive commands unless I approve (rm -rf, deleting tables/migrations).
+- Never paste secrets into chat/logs. If a secret leaks, stop and tell me to rotate it.
+
+
